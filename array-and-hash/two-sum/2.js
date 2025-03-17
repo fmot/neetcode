@@ -1,4 +1,4 @@
-// Hash Mapで解いたパターン
+// Hash Mapで解いたパターン(O(n))
 class Solution {
   /**
    * @param {number[]} nums
